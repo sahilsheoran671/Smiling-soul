@@ -38,7 +38,7 @@ CREATE TABLE `users` (
 
 LOCK TABLES `users` WRITE;
 /*!40000 ALTER TABLE `users` DISABLE KEYS */;
-INSERT INTO `users` VALUES ('101970800594098659596','anmol323c@gmail.com','Anmolpreet Singh',NULL,'other'),('105700541288390913348','vineetahuja07@gmail.com','vineet ahuja',NULL,NULL),('109889311761450556742','aryangoyal1812@gmail.com','Aryan Goyal','2021-05-07','male'),('118037189409615425832','vineet.ahuja208@gmail.com','Vineet Ahuja',NULL,'male'),('118076285230048675298','b19073@students.iitmandi.ac.in','Aryan Goyal',NULL,'other');
+INSERT INTO `users` VALUES ('101970800594098659596','671sahilsheoran@gmail.com','Sahil Sheoran',NULL,'other'),('105700541288390913348','vineetahuja07@gmail.com','vineet ahuja',NULL,NULL),('109889311761450556742','aryangoyal1812@gmail.com','Aryan Goyal','2021-05-07','male'),('118037189409615425832','vineet.ahuja208@gmail.com','Vineet Ahuja',NULL,'male'),('118076285230048675298','b19073@students.iitmandi.ac.in','Aryan Goyal',NULL,'other');
 /*!40000 ALTER TABLE `users` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
